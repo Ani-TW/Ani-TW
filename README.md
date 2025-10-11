@@ -41,6 +41,7 @@
   - 專業治療師團隊展示
   
 - 🔧 使用技術：HTML、CSS、JavaScript
+- [🔗 前往網站](https://ani-tw.github.io/shanshan_clinic/)
 
 ### ⭐ 星引力
 **團體專題 | 動態網頁**
@@ -62,6 +63,7 @@
   - 後端資料串接
 
 - 🔧 使用技術：HTML、CSS、JavaScript、AJAX、PHP、MySQL
+- [🔗 前往網站](https://tibamef2e.com/tjd102/g1)
 
 ## 🌟 個人特質
 
